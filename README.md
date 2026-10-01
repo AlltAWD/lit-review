@@ -23,3 +23,6 @@ whole format. Do not write more; do not read the full paper on the first pass.
 ## Index
 
 _(add a line per paper as you go: `- [Short name](papers/short-name.md) — one-line takeaway`)_
+- [Tobin 2017](papers/tobin2017-domain-randomization.md) — Training only on domain-randomized rendered images skips real-world image collection and still gives an accurate, robust real-world detector.
+- [Zhao 2023 (ACT)](papers/zhao2023-act.md) — Predicting chunks of future joint positions lets a low-cost leader-follower arm learn fine bimanual tasks at 80–90% success from just 50 demonstrations.
+- [Chi 2023 (Diffusion Policy)](papers/chi2023-diffusion-policy.md) — Generating action sequences by iterative denoising handles multimodal demonstrations and beats prior methods by 46.9% on average across 15 tasks.
