@@ -19,6 +19,6 @@ They released robomimic datasets and code, comparing six algorithms across five 
 
 On real-world can pick-and-place, BC-RNN achieved 73.3% success over 30 trials using 200 demonstrations. Removing the wrist camera reduced success to 43.3%; removing image-shift augmentation reduced it to 26.7% (Section 4.7).
 
-**Why I care.** One line — how it connects to the SO-101 or to sim-to-real.
+**Why I care.**
 
 For my SO-101, test camera placement and image augmentation, and evaluate task success rather than validation loss alone.

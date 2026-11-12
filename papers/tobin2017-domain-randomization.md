@@ -16,6 +16,6 @@ Instead of real-world images, an object detector is trained only on low-fidelity
 
 Locating an object on a table from a single camera image, the detector's position error is about 1.5 cm. Deployed on a Fetch robot, it grasped the target in clutter in 38 of 40 trials. With a real, textured target (a can of Spam from the YCB set) surrounded by food items it never saw in training, it succeeded in 9 of 10 trials.
 
-**Why I care.** One line — how it connects to the SO-101 or to sim-to-real.
+**Why I care.**
 
 This could let me train a vision model for my SO-101 on domain-randomized rendered images instead of collecting real-world images.

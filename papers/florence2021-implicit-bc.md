@@ -19,6 +19,6 @@ An energy-based model scores observation–action pairs, learning to assign demo
 
 On real xArm6 block pushing with multiple valid targets and orders, implicit BC achieved 88.3% success versus 55.0% for explicit MSE-based BC, using 410 demonstrations and 60 evaluation trials per method (Table 6).
 
-**Why I care.** One line — how it connects to the SO-101 or to sim-to-real.
+**Why I care.**
 
 A baseline for SO-101 tasks with several valid solutions or precise contact, though action search adds computation.
