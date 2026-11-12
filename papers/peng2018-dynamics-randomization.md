@@ -19,6 +19,6 @@ They train a recurrent reinforcement-learning policy while randomizing physical 
 
 On a real Fetch arm, the policy pushed a puck within 7 cm of its target with 89% success over 28 trials, compared with 91% in simulation (Table II).
 
-**Why I care.** One line — how it connects to the SO-101 or to sim-to-real.
+**Why I care.**
 
 For my SO-101, randomizing physics and control timing could help a Gazebo-trained policy tolerate imperfect calibration.

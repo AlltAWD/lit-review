@@ -17,6 +17,6 @@ They built ALOHA, a low-cost (<$20k) leader-follower teleoperation system, and t
 
 Learned 6 real-world fine manipulation tasks (e.g., opening a translucent condiment cup, slotting a battery) with 80–90% success from only 10 minutes, or 50 demonstrations, per task.
 
-**Why I care.** One line — how it connects to the SO-101 or to sim-to-real.
+**Why I care.**
 
 ACT works well on low-cost hardware like the SO-101, which uses the same leader-follower teleoperation setup as ALOHA.

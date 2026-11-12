@@ -21,6 +21,6 @@ They review published studies, comparing transfer methods, simulators, learning 
 
 Maps five approaches—domain randomization, domain adaptation, imitation learning, meta-learning, and knowledge distillation—across manipulation, navigation, and other applications. The contribution is a taxonomy, not a new experimental success rate (Sections II–IV; Table I).
 
-**Why I care.** One line — how it connects to the SO-101 or to sim-to-real.
+**Why I care.**
 
 I can use this map to organize synthesis.md and separate visual-transfer methods from dynamics-transfer methods for my SO-101.

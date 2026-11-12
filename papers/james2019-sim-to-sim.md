@@ -19,6 +19,6 @@ RCAN learns to translate randomized simulation images into a consistent, canonic
 
 On unseen objects, RCAN achieved 70% real-world grasp success without real training data, versus 37% for the best domain-randomization baseline. Joint fine-tuning with 5,000 real grasps raised success to 91% (Table 1).
 
-**Why I care.** One line — how it connects to the SO-101 or to sim-to-real.
+**Why I care.**
 
 For my SO-101, translating camera images into a consistent simulated appearance could reduce real-world training needs.

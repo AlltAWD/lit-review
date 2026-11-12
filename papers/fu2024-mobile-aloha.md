@@ -19,6 +19,6 @@ They added a wheeled base and whole-body teleoperation to ALOHA, then trained AC
 
 On Wipe Wine, co-training achieved 95% success versus 50% without it, using 50 mobile-task demonstrations plus 825 static demonstrations. Each condition had 20 evaluation trials (Table 1).
 
-**Why I care.** One line — how it connects to the SO-101 or to sim-to-real.
+**Why I care.**
 
 For my SO-101, test whether compatible demonstrations from other tasks improve ACT over target-task data alone.

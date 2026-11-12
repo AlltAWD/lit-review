@@ -16,6 +16,6 @@ The policy is a conditional denoising diffusion process: it starts from random n
 
 Outperformed existing state-of-the-art methods by 46.9% on average across 15 tasks from 4 robot manipulation benchmarks.
 
-**Why I care.** One line — how it connects to the SO-101 or to sim-to-real.
+**Why I care.**
 
 A strong policy choice for the SO-101 on tasks that need smooth action sequences or have several valid ways to succeed.

@@ -19,6 +19,6 @@ They train one language-conditioned policy on roughly 130,000 demonstrations cov
 
 RT-1 achieved 97% success on seen-task evaluations and 76% on 21 unseen instructions combining familiar skills and objects in new ways (Table 2).
 
-**Why I care.** One line — how it connects to the SO-101 or to sim-to-real.
+**Why I care.**
 
 For my SO-101, this motivates collecting diverse tasks with clear language labels to test generalization beyond a single routine.

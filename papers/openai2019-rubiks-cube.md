@@ -21,6 +21,6 @@ Automatic domain randomization (ADR) expands parameter ranges when boundary test
 
 With vision for cube pose and sensor-measured face angles, the best policy completed the fixed scramble sequence of 26 rotations and 17 flips in 2 of 10 real-hand trials (Table 6).
 
-**Why I care.** One line — how it connects to the SO-101 or to sim-to-real.
+**Why I care.**
 
 For my SO-101, progressively expanding randomization could improve robustness without choosing every training range by hand.

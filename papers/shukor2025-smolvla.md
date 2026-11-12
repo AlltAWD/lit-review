@@ -19,6 +19,6 @@ SmolVLA combines a frozen vision-language model with a flow-matching action expe
 
 On SO-101 pick-and-place, the 450M-parameter model scored 90% versus ACT's 70% at familiar object positions, and 50% versus 40% at novel positions. These scores include partial credit for completed subtasks (Table 4).
 
-**Why I care.** One line — how it connects to the SO-101 or to sim-to-real.
+**Why I care.**
 
 A language-conditioned alternative to ACT, tested directly on my SO-101 platform and available through LeRobot.
